@@ -1,8 +1,8 @@
 # CI2024_lab1
 
 ## Algorithms used
-- Random mutation hill climber with single mutation
-- Random mutation hill climber with multiple mutation
+- Random-Mutation Hill Climber with single mutation
+- Random-Mutation Hill Climber with multiple mutation
 - Random-Mutation Hill Climber with multiple mutation and simulated annealing
 
 ## Results
